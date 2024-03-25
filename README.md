@@ -79,19 +79,18 @@ I'm a dynamic individual 🌟, always on time ⏰ and driven by goals 🎯. With
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <summary >💻 GitHub Profile Stats</summary>
+  <summary align="center" >💻 GitHub Profile Stats</summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Prateek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prateekmlg-1907&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Prateek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekmlg-1907&langs_count=8&layout=compact&theme=nightowl&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   </p>
     <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary align="center">⚡ Recent GitHub Activity</summary>
   <br/>
   <p align="center">
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Prateek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=prateekmlg-1907&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
