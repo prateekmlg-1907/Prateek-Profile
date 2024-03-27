@@ -2,7 +2,6 @@
 Hi, I'm Prateek Malagund!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://komarev.com/ghpvc/?username=prateekmlg-1907&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="prateekmlg-1907" />
-<!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
 
 <br/>
 
@@ -100,7 +99,7 @@ I'm a dynamic individual 🌟, always on time ⏰ and driven by goals 🎯. With
 
 <!-- https://github.com/sisodiya2421 -->
 
-## 🙋‍♀️ Let's Connect
+## 🙋🏼‍♂️ Let's Connect
 
 <p align="center">
 	<!--<a href="https://yashitanamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>-->
