@@ -86,19 +86,6 @@ I'm a dynamic individual 🌟, always on time ⏰ and driven by goals 🎯. With
   </p>
     <br/>
 
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <summary align="center">⚡ Recent GitHub Activity</summary>
-  <br/>
-  <p align="center">
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Prateek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=prateekmlg-1907&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  </p>
-    <br/>
-
-
-<!-- https://github.com/sisodiya2421 -->
-
 ## 🙋🏼‍♂️ Let's Connect
 
 <p align="center">
